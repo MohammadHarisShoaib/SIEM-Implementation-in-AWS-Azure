@@ -7,6 +7,6 @@ Creating a simple honeypot in Azure and using Sentinel to display failed login a
 <br/>
 
 <p align="center">
-<img src="https://imgur.com/a/IZQiDFq" height="80%" width="80%" alt="Active Directory Diagram"/>
+<img src="https://i.imgur.com/1SBSgQy.png" height="80%" width="80%" alt="Active Directory Diagram"/>
 <br />
 <br />
